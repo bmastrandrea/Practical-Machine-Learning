@@ -1,5 +1,5 @@
 # Practical-Machine-Learning
-Peer-graded Assignment: Prediction Assignment Writeup
+## Peer-graded Assignment: Prediction Assignment Writeup
 
 Instructions
 
